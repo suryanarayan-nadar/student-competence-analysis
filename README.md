@@ -34,7 +34,7 @@ Prompt Engineering: Experiment with different prompt templates (e.g. “Why do y
 ## ⚙️ Setup
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/student-competence-analysis.git
+git clone https://github.com/suryanarayan-nadar/student-competence-analysis.git
 cd student-competence-analysis
 
 # Create virtual environment (recommended)
