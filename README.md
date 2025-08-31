@@ -19,8 +19,7 @@ pip install pybryt              # for PyBryt (auto-assessment)
 Download the model weights (example for CodeLlama 7B Instruct):
 
 pip install git+https://github.com/huggingface/transformers  # if needed
-# Transformers will fetch weights automatically in the code above,
-# or you can use `from_pretrained` with local cache.
+Transformers will fetch weights automatically in the code above, or you can use `from_pretrained` with local cache.
 
 
 Running the Example:
