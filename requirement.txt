@@ -1,0 +1,17 @@
+Here’s what you should add:
+
+transformers
+torch
+pybryt
+
+📌 Explanation
+
+transformers → to load and use the Code Llama model from Hugging Face.
+torch → backend required for running Code Llama (PyTorch).
+pybryt → library for analyzing student code with annotations.
+
+👉 If you want to be extra safe, you can pin specific versions (tested stable ones):
+
+transformers>=4.40.0
+torch>=2.0.0
+pybryt>=0.5.2
